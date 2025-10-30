@@ -98,3 +98,8 @@ O relatório abaixo demonstra o sucesso do modelo em encontrar um equilíbrio en
     best_model = tf.keras.models.load_model('best_model.keras')
     best_model.summary()
     ```
+## Link para o Notebook (Google Colab)
+
+Todo o processo de desenvolvimento, pré-processamento e treinamento pode ser visualizado e executado diretamente no Google Colab através do link abaixo:
+
+**[Abrir o Notebook no Google Colab](https://colab.research.google.com/drive/10u83CeIL97tmQRlt0QrbRWrLbs6PlKF9)**
