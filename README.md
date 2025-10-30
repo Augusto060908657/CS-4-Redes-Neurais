@@ -1,6 +1,6 @@
 # Sprint Challenge 4: Previsão de Gravidade de Acidentes com LSTMs (PRF)
 
-**Autores:** Octavio, Guilherme e [Seu Nome Aqui]
+**Autores:** Octavio, Guilherme
 
 Este projeto é uma solução de Deep Learning desenvolvida para o Sprint Challenge 4, com o objetivo de prever a gravidade de acidentes de trânsito nas rodovias federais brasileiras. Utilizando Redes Neurais Recorrentes (LSTMs) e a base de dados pública da Polícia Rodoviária Federal (PRF), o modelo visa identificar padrões temporais que levam a acidentes mais severos.
 
